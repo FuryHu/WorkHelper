@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WorkHelper.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PojPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\项目\fzkf\LianOu.Doctor</Value>
+    </Setting>
+    <Setting Name="Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">胡富原</Value>
+    </Setting>
+    <Setting Name="Separate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">丶</Value>
+    </Setting>
+    <Setting Name="Filter" Type="System.String" Scope="User">
+      <Value Profile="(Default)">^((?!.*(branch|master|dev)).)*$</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

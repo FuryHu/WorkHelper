@@ -1,0 +1,15 @@
+﻿<Window x:Class="WorkHelper.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WorkHelper"
+        mc:Ignorable="d"
+        Title="早上好" Height="520" Width="800">
+    <Grid>
+        <TabControl x:Name="Tabs">
+            <TabItem x:Name="ReportTab" Header="报告生成"/>
+        </TabControl>
+
+    </Grid>
+</Window>
